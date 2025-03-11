@@ -7,3 +7,6 @@ caracteres = string.ascii_letters + string.digits + string.punctuation
 
 contraseña = ''.join(random.choice(caracteres) for _ in range(longitud))
 print(f'Contraseña generada: {contraseña}')
+
+# Generador de nombres de usuario
+nombres = ['juan', 'maria', 'pedro', 'laura', 'carlos']
