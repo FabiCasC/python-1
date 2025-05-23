@@ -1,0 +1,11 @@
+[2025-05-23] estoy feliz ---> feliz
+[2025-05-23] estoy triste ---> triste
+[2025-05-23] estoy triste ---> triste
+[2025-05-23] estoy feliz ---> feliz
+[2025-05-23] estoy ansioso ---> ansioso
+[2025-05-23] estoy estresado ---> ansioso
+[2025-05-23] estoy triste ---> triste
+[2025-05-23] estoy normal ---> neutra
+[2025-05-23] estoy normal ---> neutra
+[2025-05-23] estoy bien ---> neutra
+[2025-05-23] estoy bien ---> feliz
